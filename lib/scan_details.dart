@@ -105,7 +105,7 @@ class MedicineScannerHomeState extends State<MedicineScannerHome> {
     try {
       final model = GenerativeModel(
         model: 'gemini-1.5-flash',
-        apiKey: 'AIzaSyCAJ5rNXAVnCR6b5VSDRRxhGIpuJnjjKic',
+        apiKey: 'api key',
       );
 
       final content = [
